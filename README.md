@@ -1,81 +1,60 @@
-# Potato Disease Classification
+# POTATO DISEASE CLASSIFICATION
+ 
+ Project presentation video drive link: https://drive.google.com/file/d/1hnF6w1YgRrTLm2VuHH6EiiWiuCZrS9W5/view?usp=sharing 
+ 
+ ## Overview 
+ 
+  Classification of potato diseases aims to develop a machine learning model that can accurately classify different  diseases based on their visual characteristics. This project is  part of our commitment to the development of computer vision and machine learning techniques. 
+ 
+ ## Project objectives 
+ - Train a deep learning model on a dataset of images of potato leaves. - To achieve a high accuracy of classification of potato diseases. - Use the model in real potato disease classification applications.  ## Project stages 
+ 
+ ### PROJECT PHASES
+### 1.Ideation Phase
+ 
+ In this initial phase, we focus  on brainstorming and getting a vision for the project. We  use  two important tools: 
+ 
+ #### Empathy Map Canvas: 
+ The Empathy Map Canvas allows us to gain a deep understanding of the perspectives and requirements of our target users, which helps us create a user-centric potato disease classification solution. 
+  #### Brain card: 
+ The brainstorming map is a focus for creative thinking and allows us to explore many ideas and strategies within the potato disease classification project. 
+ ### 2. Design phase 
+ In the planning phase, we create a plan for our potato disease classification solution. This step includes the following critical elements: 
+ 
+ #### Suggested solution: 
+ We  define an end-to-end solution for potato disease classification, including  problem statement formulation, ideation, innovation, social impact, business model and scalability. 
+  #### Solution architecture: 
+ We are designing the technical architecture of our potato disease classification system. This includes decisions about infrastructure, such as cloud services or on-premises servers, as well as figuring out how different system components interact with the software. 
+ #### Data flow diagram: 
+ A data flow diagram describes how data is collected, processed, and fed into a machine learning model. It introduces data sources, data processing steps, and  model training and evaluation processes. 
+  ### 3. Planning phase 
+ In the planning phase, we  create a plan for our potato disease classification model. This step includes the following key components: 
+ 
+ #### Technology stack: 
+ In this step, we  define the technology stack for the potato disease classification project, which includes the technical architecture, components, technologies and application functions. 
+ #### Project planning information: 
+ This section focuses on  aspects of project planning, including  product order, sprint schedule, project tracking, velocity and exhaustion chart, whiteboard section, backlog section, and project schedule. 
+### 4.Development phase 
+ In the development phase, we  actively implement the potato classification model based on the plan developed in the planning phase. This step includes the following key elements: 
+ 
+ #### Stage of development 
+ In the development phase, we are actively promoting the implementation of the potato disease classification model based on the plan developed in the planning phase. This step includes the following important elements: 
+ 
+ #### Database 
+ This section contains images of various potato diseases such as blight, scab, rot and other diseases. These images are important to our project and will be used for classification, analysis and visualization. They are classified by disease type for easy access and use in development, testing and design activities. 
+  #### Classification of Potato Diseases Jupyter Notebook 
+ A Jupyter notebook contains code and instructions for potato disease classification based on deep learning. It covers different disease categories using image data. The notebook contains code snippets, explanations and visual aids to help users build and train potato disease classification models. 
+ #### Flask source code 
+ Here you can find the Flask source code  andquot;Potato Disease Classification Project.andquot; This code contains route definitions, view actions, HTML templates and piston settings. It is necessary to understand how Flask works with project and web application. 
+  #### Project guide 
+ A project manual is a comprehensive guide that outlines project goals, methods, roles and best practices. It acts as a navigation tool and collaboration resource, ensuring a systematic and successful project implementation. 
+ ### 5. Performance and Final Delivery Stage 
+ 
+ In the execution and final delivery phase, we evaluate and refine the potato classification model developed in the previous phase. Our goal is to confirm its performance and prepare a detailed report for  final submission. 
+  #### Solution activity 
+ The solution performance is a document that summarizes the model and its accuracy and includes both training and validation results. 
 
-https://drive.google.com/file/d/1hnF6w1YgRrTLm2VuHH6EiiWiuCZrS9W5/view?usp=sharing is the drive link for the project demo video.
-
-## Executive Summary
-
-The Potato illness Classification project attempts to create a machine learning model that can correctly categorize various illness kinds according to their outward appearance. We are dedicated to developing machine learning and computer vision techniques, which includes this project. 
-
-Project Objectives
-- Use a dataset of photos of potato leaves to train a deep learning model.
-- Classify potato diseases with great accuracy.
-- Implement the model for practical uses in potato disease categorization.
-
-Project Stages
-
-### 1.The Idea Stage
-
-During this first stage, we will be concentrating on ideation and learning about the project. Two crucial instruments will be employed by us:
-
-#### Empathy Map Canvas: 
-By using the Empathy Map Canvas, we can better understand the needs and viewpoints of our target audience and develop a user-centered solution for potato disease classification.
-
-#### Brainstorming Map: 
-We will be able to explore a wide range of ideas and techniques for the Potato Disease Classification Project by using the Brainstorming Map as a focal point for creative thinking.
-
-### 2. Phase of Design
-We will create a plan for our potato disease categorization system throughout the design phase. The following essential components are included in this phase:
-
-#### Proposed Solution:
-Including articulating the problem statement, idea, innovation, societal impact, business model, and scalability, we will define the whole solution for the categorization of potato diseases.
-
-#### Empathy Map Canvas: 
-By using the Empathy Map Canvas, we can better understand the needs and viewpoints of our target audience and develop a user-centered solution for potato disease classification.
-
-#### Brainstorming Map:
-We will be able to explore a wide range of ideas and techniques for the Potato Disease Classification Project by using the Brainstorming Map as a focal point for creative thinking.
-
-### 2. Phase of Design
-We will create a plan for our potato disease categorization system throughout the design phase. The following essential components are included in this phase:
-
-#### Proposed Solution: 
-Including articulating the problem statement, idea, innovation, societal impact, business model, and scalability, we will define the whole solution for the categorization of potato diseases.
-
-#### Technology Stack:
-During this stage, the technical architecture, components, technologies, and application characteristics for the potato disease classification project will be defined.
-
-#### Project Scheduling Information: 
-The product backlog, sprint schedule, project tracker, velocity and burndown chart, board section, backlog section, and project timeline are just a few of the project planning tools that will be covered in this section.
-
-### 4.Phase of Development
-Building on the plan developed during the Planning Phase, we will actively implement the potato classification model in the Development Phase. The following essential components are included in this phase:
-
-
-
-#### Development Phase
-Within the Development Phase, we will actively progress with the implementation of the potato disease classification model, building upon the blueprint formulated during the Planning Phase. This phase encompasses the following crucial elements:
-
-#### Dataset
-This section showcases images of various potato diseases, such as blight, scab, rot, and other ailments. These images are fundamental to our project, serving for classification, analysis, and visualization purposes. They are categorized by disease type for convenient accessibility and utilization in development, testing, and related project activities.
-
-#### Potato Disease Classification Jupyter Notebook
-The Jupyter Notebook contains code and guidelines for the deep learning-based classification of potato diseases. It covers different disease categories using image data. The notebook incorporates code snippets, explanations, and visual aids to assist users in creating and training potato disease classification models.
-
-#### Flask Source Code
-Here, you will find the Flask source code for the "Potato Disease Classification Project." This code includes route definitions, view functions, HTML templates, and Flask configurations. It is indispensable for comprehending how Flask powers the project's web application.
-
-#### Project Manual
-A project manual is a comprehensive guide that outlines project objectives, methodologies, roles, and best practices. It serves as a navigation tool and collaborative resource, ensuring systematic and successful project execution.
-
-### 5. Performance and Final Submission Phase
-
-In the Performance and Final Submission Phases, we assess and refine the potato classification model developed in the previous phase. Our goal is to validate its performance and create a detailed report for the final submission.
-
-#### Solution Performance
-The Solution Performance is a document that includes a summary of the model and its accuracy, encompassing both training and validation results.
-
-#### Project Documentation
-This comprehensive set of records includes details regarding data collection, deep learning model development, evaluation metrics, code, user interfaces, and deployment procedures. It serves as a vital reference for project stakeholders, offering support for troubleshooting, future maintenance, and the transfer of knowledge.
-
-
-Thank you for your hard work and dedication. Your commitment has brought us here, and success is on the horizon. Best of luck as we move forward!
+  #### Project documentation 
+ This comprehensive set of records includes information on data collection, deep learning model development, evaluation metrics, code,  interfaces, and implementation procedures. It serves as an important benchmark for project stakeholders, providing support for troubleshooting, future maintenance and data transfer. 
+ 
+ Thank you for your hard work and dedication. Your dedication has brought us here and success is visible. Good luck on your journey ahead!
