@@ -1,4 +1,4 @@
-![image](https://github.com/smartinternz02/SI-GuidedProject-600930-1697632720/assets/93421922/f49b4102-f401-4a4a-8858-872c451a8cf8)# POTATO DISEASE CLASSIFICATION
+# POTATO DISEASE CLASSIFICATION
  
  Project presentation video drive link: https://drive.google.com/file/d/1fk8E17w05j5Thq0jHZk7dtyuitNXQqVt/view?usp=sharing
  
